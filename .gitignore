@@ -1,0 +1,10 @@
+*.log
+*.bin
+*.csv
+*.txt
+*.txt_0
+*.ERROR
+*.INFO
+*.WARN
+*.ERROR
+*.out
